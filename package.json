@@ -2,7 +2,7 @@
   "name": "@kevinmarrec/vite-plugin-dark-mode",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "bun@1.2.21",
+  "packageManager": "bun@1.2.22",
   "description": "Vite plugin to set initial color scheme based on user preferences.",
   "author": "Kevin Marrec <kevin@marrec.io>",
   "license": "MIT",
@@ -42,15 +42,15 @@
     "vite": ">=7.0.0"
   },
   "devDependencies": {
-    "@kevinmarrec/eslint-config": "^1.0.0",
-    "@kevinmarrec/tsconfig": "^1.0.0",
-    "@types/bun": "^1.2.21",
+    "@kevinmarrec/eslint-config": "^1.4.0",
+    "@kevinmarrec/tsconfig": "^1.1.0",
+    "@types/bun": "^1.2.22",
     "@vitest/coverage-v8": "^3.2.4",
     "bumpp": "^10.2.3",
-    "eslint": "^9.34.0",
-    "knip": "^5.63.0",
-    "taze": "^19.4.0",
-    "tsdown": "^0.14.2",
+    "eslint": "^9.36.0",
+    "knip": "^5.63.1",
+    "taze": "^19.7.0",
+    "tsdown": "^0.15.2",
     "typescript": "^5.9.2",
     "vitest": "^3.2.4"
   }
