@@ -1,7 +1,7 @@
 {
   "name": "@kevinmarrec/vite-plugin-dark-mode",
   "type": "module",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "packageManager": "bun@1.2.22",
   "description": "Vite plugin to set initial color scheme based on user preferences.",
   "author": "Kevin Marrec <kevin@marrec.io>",
